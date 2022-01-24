@@ -1,0 +1,19 @@
+{
+  "name": "myblog",
+  "version": "1.0.0",
+  "author": "reco_luan",
+  "scripts": {
+    "local": "vuepress dev . --open --host \"localhost\"",
+    "build": "vuepress build .",
+    "deploy": "bash deploy.sh"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-active-header-links": "^1.8.2",
+    "markdown-it-disable-url-encode": "^1.0.1",
+    "vuepress": "1.8.2",
+    "vuepress-plugin-auto-sidebar": "^2.3.2",
+    "vuepress-plugin-table-of-contents": "^1.1.7",
+    "vuepress-theme-reco": "1.6.6"
+  },
+  "description": "myblog"
+}
