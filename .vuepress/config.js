@@ -1,5 +1,5 @@
 module.exports = {
-  "title": "Doerr’s blog",
+  "title": "Ling’s blog",
   "description": "巅峰见证虚伪拥护，黄昏见证忠实信徒",
   "dest": "public",
   "head": [
